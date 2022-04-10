@@ -1,7 +1,7 @@
 # Welcome to my Github Page
 ## About my Profile:
 I am an aspiring **Data Analyst**. <br>
-I am currebtly pursuing **Data Analytics** course in **Edu Bridge**. <br>
+I am currently pursuing **Data Analytics** course in **Edu Bridge**. <br>
 I am completed **B.tech** Textile technology in **Bannari Amman instituite of Technology**,Sathyamangalam.
 
 ## Connect with me on these platforms
